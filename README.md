@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/shime/dominant-color.svg)](https://travis-ci.org/shime/dominant-color)
 
-Gets dominant colour of an image. ~10 times faster than [color-thief](https://www.npmjs.org/package/color-thief) because it uses plain old [imagemagick](https://www.npmjs.org/package/imagemagick) instead of canvas.
+Gets dominant color of an image. ~10 times faster than [color-thief](https://www.npmjs.org/package/color-thief) because it uses plain old [imagemagick](https://www.npmjs.org/package/imagemagick) instead of canvas.
 
 ## installation
 
