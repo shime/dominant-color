@@ -4,11 +4,11 @@
 
 Gets dominant color of an image. ~10 times faster than [color-thief](https://www.npmjs.org/package/color-thief) because it uses plain old [imagemagick](https://www.npmjs.org/package/imagemagick) instead of canvas.
 
-## installation
+## Installation
 
     npm install dominant-color
 
-## example
+## Example
 
 ```javascript
 var color   = require('dominant-color'),
@@ -28,11 +28,11 @@ Options:
 
 * `format` - 'hex' or 'rgb', defaults to 'hex'
 
-## alternatives
+## Alternatives
 
 * [color-thief](https://www.npmjs.org/package/color-thief)
 * [colour-extractor](https://www.npmjs.org/package/colour-extractor)
 
-## license
+## License
 
-ISC
+MIT
